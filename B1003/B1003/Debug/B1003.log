@@ -1,0 +1,14 @@
+﻿生成启动时间为 2017/10/7 21:08:44。
+     1>项目“E:\Project\C++\PAT\B1003\B1003\B1003.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\visual studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\B1003.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt B1003.cpp
+         B1003.cpp
+       Link:
+         D:\visual studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Project\C++\PAT\B1003\Debug\B1003.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Project\C++\PAT\B1003\Debug\B1003.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Project\C++\PAT\B1003\Debug\B1003.lib" /MACHINE:X86 Debug\B1003.obj
+         Debug\stdafx.obj
+         B1003.vcxproj -> E:\Project\C++\PAT\B1003\Debug\B1003.exe
+     1>已完成生成项目“E:\Project\C++\PAT\B1003\B1003\B1003.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.08
